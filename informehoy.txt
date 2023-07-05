@@ -3,3 +3,6 @@ Taller de git
 
 Que es un sistema de control de versiones:
 Es una herramienta de software que monitoriza y gestiona cambios en un sistema de archivos.
+
+Como ignorar archivos para no ser comprometidos en el
+área de trabajo.
