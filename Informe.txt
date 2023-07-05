@@ -1,0 +1,3 @@
+ lo visto en la clase anterior fue:
+Git Sistema de control de versiones, aprendimos a usar codigos en la terminal de git bash, para configurarlo, guardar cambios, borrar algo, hacer commit y 
+a crear otras ramas 
